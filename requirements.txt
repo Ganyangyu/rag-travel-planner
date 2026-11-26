@@ -1,0 +1,6 @@
+# Tested with Python 3.12. Direct runtime dependencies only.
+gradio==6.32.0
+requests==2.34.2
+beautifulsoup4==4.15.0
+chinese-calendar==1.12.1
+playwright==1.65.2

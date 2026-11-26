@@ -1,0 +1,27 @@
+# Local environments and generated Python files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor-specific and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local credentials and browser sessions
+.env
+.env.*
+!.env.example
+*cookie*
+*storage_state*
+xhs-browser/
+*.log
+
+# Assignment reference and generated verification files stay local
+*.docx
+*.doc
+output/
+dist/
